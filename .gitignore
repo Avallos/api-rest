@@ -1,0 +1,7 @@
+servicos/node_modules
+node_modules
+.vscode
+db.sqlite
+.eslintrc.js
+.env
+assets/
